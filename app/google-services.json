@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826918210887",
+    "firebase_url": "https://boiler-plate-app-56432.firebaseio.com",
+    "project_id": "boiler-plate-app-56432",
+    "storage_bucket": "boiler-plate-app-56432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826918210887:android:ec1a2ed4eb07c78ecd9062",
+        "android_client_info": {
+          "package_name": "com.example.boilerplateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826918210887-e338j7dt3mo7golh9q3992blm9oai066.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boilerplateapp",
+            "certificate_hash": "5011c6d59332fa61e66d81966e33cc69e02d0298"
+          }
+        },
+        {
+          "client_id": "826918210887-639qh5fol1ioujvs8ktjq0kg7q28c55o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJ-dcNWAWoCOuZvHu6mwkgzz7gmcYcm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826918210887-639qh5fol1ioujvs8ktjq0kg7q28c55o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
