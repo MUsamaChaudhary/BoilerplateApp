@@ -101,6 +101,7 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
                 GlobalApplication.getInstance().LogoutUser();
                 GlobalApplication.getInstance().LogoutGoogleUser();
                 signOutGoogle();
+
                 break;
 
         }
